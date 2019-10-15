@@ -4,6 +4,7 @@ A friendly botnet created by the members of dayzero.
 Notes:
 
 Name: Chalky Mint
+
 Target: Windows / Linux Servers and IoT Devices 
 Objective: DDoS Capabilities, Crack Hashes
 Tools: hping3, hashcat, hashtopolis

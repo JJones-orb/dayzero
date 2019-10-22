@@ -8,7 +8,7 @@ import time
 
 
 SERVER_ADDR = ''
-SERVER_PORT = 8080
+SERVER_PORT = 80
 
 def main():
     # Every minute, poll the server for new commands.

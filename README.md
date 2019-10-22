@@ -1,5 +1,6 @@
 # dz-botnet
 A friendly botnet created by the members of dayzero.
+This project is for educational purposes only.
 
 ## objective
 **Project Name:** Chalky Mint  

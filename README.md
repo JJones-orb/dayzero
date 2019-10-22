@@ -2,7 +2,7 @@
 A friendly botnet created by the members of dayzero.
 
 ## Notes:
-Project Name: **Chalky Mint** 
+Project Name: **Chalky Mint**  
 Target: **Windows / Linux Servers and IoT Devices** 
 Objective: **DDoS, Hash Cracking** 
 Tools: **hping3, hashcat** 

@@ -8,6 +8,13 @@ A friendly botnet created by the members of dayzero.
 **Tools:** hping3, hashcat  
 **Other Functionality:** self destruction, log modification for stealth  
 
+## system overview
+[Insert System Details Here]
+-> [Structure, Communication Protocols, Technologies Used]
+
+## network diagram
+[Insert Network Diagram Here]
+
 ## guestbook
 AD was here 10/15/19 :D  
 Dingo was here 10/15/19  

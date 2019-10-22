@@ -9,8 +9,11 @@ A friendly botnet created by the members of dayzero.
 **Other Functionality:** self destruction, log modification for stealth  
 
 ## system overview
-[Insert System Details Here]
--> [Structure, Communication Protocols, Technologies Used]
+[Insert System Details Here]  
+-> [Structure]  
+-> [Communication Protocols]  
+-> [Installation]  
+-> [Technologies Used]  
 
 ## network diagram
 [Insert Network Diagram Here]
